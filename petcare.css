@@ -70,11 +70,11 @@ a {
     margin-right: 25px;
 }
 
-/*  Changes */
+
 .dropdown button {
     cursor: pointer;
 }
-/*    */
+
 
 .dropdown .dropbtn {
     font-size: 16px;
@@ -90,15 +90,6 @@ a {
   
 }
 
-/* .navbar a:hover, .dropdown:hover .dropbtn {
-    background-color: rgb(95, 136, 141);
-    color: #f9f9f9;
-    animation: 0.6s ease-in;
-} */
-
-/* .navbar .dropdown .animal-treatment:hover {
-    background-color: aquamarine; 
-} */
 
 .dropdown-content {
     display: none;
@@ -144,7 +135,6 @@ a {
     font-size: 16px;
     transition: 0.6s ease;
 
-    /* font-size and background-color and color and font weight - change */
 }
 
 #btn1 {
@@ -159,7 +149,6 @@ a {
 .sign-btn button:hover {
     background-color: rgb(29, 122, 135);
     color: #f9f9f9;
-    /* change */
 }
 
 
@@ -191,8 +180,8 @@ a {
 }
 .mySlides {
     display: none;
-    height: 400px;
-    width: 766px;
+    height: 30vw;
+    width: 100%;
     border: 9px solid rgba(0, 0, 0, 0.922);
     border-radius: 5px;
     transition: all 0.1s ease-in-out;
@@ -322,7 +311,6 @@ border-radius: 5px;
 
 
 
-/* footer css start here  */
 
 
 .footer-container {
