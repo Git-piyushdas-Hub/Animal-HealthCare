@@ -330,9 +330,12 @@ border-radius: 5px;
     display: flex;
     flex-direction: column;
     margin: 0 auto 0 auto;
-    text-align: left;
+    text-align: center;
 }
 
+.footer .footer-3 {
+    padding-left: 50px;
+}
 
 .footer-heading h4 {
     margin-bottom: 2rem;
